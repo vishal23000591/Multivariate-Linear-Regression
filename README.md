@@ -6,7 +6,7 @@ To write a python program to implement multivariate linear regression and predic
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 ### Step1
-Start the program.
+Start the program. imoort pandas for linear regression.
 
 ### Step2
 Open the csv file cars(1).csv
@@ -41,7 +41,7 @@ print('predicted CO2 for the corresponding weight and volume',predictCO2)
 
 ```
 ## Output:
-![Output](/multivariatepoutput.png)
+![Output](/multivariatepoutput-1.png)
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
